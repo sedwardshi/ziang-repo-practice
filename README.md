@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Ziang's repo for github demo
 
 You can use the [editor on GitHub](https://github.com/sedwardshi/ziang-repo-practice/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
